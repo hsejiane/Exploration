@@ -1,4 +1,0 @@
-hvac==0.6.0
-pyspark==2.4.0
-hdfs[kerberos]==2.1.0
-
