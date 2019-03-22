@@ -56,9 +56,6 @@ a[:-1]
  
  
  
-{"ftp_conn_url":"netconnectbatch1.chasepaymentech.net","user":"SPQP2QPX","password":"pvg0v8Qv"}
- 
- 
 next()
  
  
